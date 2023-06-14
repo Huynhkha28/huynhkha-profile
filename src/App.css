@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.header{
+  background-image: url('../public/header.jpg');
+}
+.avt{
+  background-image: url('../public/huynhkha.jpg');
+}
